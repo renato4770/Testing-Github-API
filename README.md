@@ -9,3 +9,15 @@ This is made by the Github API where I pull all python repositories
 
 I've added the HTML file, and the .py file
 
+If you want to generate this chart with other most popular languages on Github just change the URL call on the API
+
+C example :
+ Make an API call and store the response.
+
+url ='https://api.github.com/search/repositories?q=language:c&sort=stars'
+
+JavaScript:
+
+ Make an API call and store the response.
+
+url ='https://api.github.com/search/repositories?q=language:javascript&sort=stars'
