@@ -1,5 +1,5 @@
 # Testing-Github-API
-I create a Github API testing where I pull the best starred python repositories
+I created a Github API testing where I pull the best starred python repositories
 
 # Best Github starred Python repositories
 
